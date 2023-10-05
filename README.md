@@ -1,0 +1,1 @@
+to run project: open terminal for client side - npm start, open terminal for server - npm run build, node server/nodemon
